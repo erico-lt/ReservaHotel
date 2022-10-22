@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "model/exeptions",
+        "model/entites",
+        "Aplication",
+        "model/exceptions"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
